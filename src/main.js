@@ -1,6 +1,7 @@
 import puppeteer from "puppeteer";
-import { login, uploadProperties } from "./utilities/utilities.js";
 import properties from "../data/properties.js";
+import { login } from "./utilities/login.js";
+import { uploadProperties } from "./utilities/uploadPorperties.js";
 
 const bootstrap = async () => {
   const browser = await puppeteer.launch({ headless: false });
