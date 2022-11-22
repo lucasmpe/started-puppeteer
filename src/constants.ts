@@ -1,4 +1,4 @@
-export default {
+export const FIELD_FORM = {
   PROPERTY_FOR_SALE_OR_RENT: "Property for sale or rent",
   TYPE_OF_PROPERTY_FOR_RENT: "Type of property for rent",
   NUMBER_OF_BEDROOMS: "Number of bedrooms",
@@ -8,4 +8,4 @@ export default {
   PROPERTY_FOR_RENT_DESCRIPTION: "Property for rent description",
 };
 
-export const DEFAULT_DELAY = 10;
+export const DEFAULT_DELAY: number = 10;
