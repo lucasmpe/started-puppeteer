@@ -1,0 +1,77 @@
+[
+  {
+    "description": "Fantastic three-bedroom apartment with security entrance and security parking, close to Smith Street Cafes and shops.\n",
+    "inspections": [
+      {
+        "day": "24",
+        "endsOn": "2022-11-24T06:15:00.000Z",
+        "endsOnDesc": "5:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-24T06:00:00.000Z",
+        "startsOnDesc": "5:00 PM",
+        "weekday": "Thursday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-1.jpg?versionId=7J.scXHulo.OrGPn_P19FegMYX9zxUyR"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-2.jpg?versionId=BmTsG4s4XSF5rV1DqwOsguPWH4DOBo6J"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-3.jpg?versionId=4KDZLXzh580MYl5alKqlPbPsSATSXmni"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-4.jpg?versionId=inB0KRL.aXJyeGCCrE30jyjvi7f9Uu8m"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-5.jpg?versionId=BcjbxW60MnjpE85.TuEJtDl9fiSMPHfH"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-6.jpg?versionId=IbJHFUI.eLM1GxgcM14cp1nABPnUzKiu"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-7.jpg?versionId=P3W3u9cLFchCtoe7sTpr_5swJX2jQ05d"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-8.jpg?versionId=QmtFy._uknyhlIjz.3E5vMvz1MlqPA2."
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-9.jpg?versionId=oLhzGLQW7AfwtFJX7k3mYGHejBrBFCuR"
+      }
+    ],
+    "id": 9508656,
+    "agents": [
+      {
+        "id": 1019518,
+        "name": "Luca Russell"
+      },
+      {
+        "id": 1019507,
+        "name": "Leasing Agent"
+      }
+    ],
+    "title": "Stunning Warehouse Style Apartment | HODGES CAULFIELD",
+    "priceDetails": {
+      "longDescription": "$780",
+      "shortDescription": "$780pw"
+    },
+    "address": {
+      "streetNumber": "3/170",
+      "street": "Oxford Street",
+      "state": "Victoria",
+      "postcode": "3066",
+      "suburb": "Collingwood"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Thu 24 Nov 5:00pm"
+    },
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2
+    }
+  }
+]

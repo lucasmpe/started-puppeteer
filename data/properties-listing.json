@@ -1,0 +1,697 @@
+[
+  {
+    "description": "Fantastic three-bedroom apartment with security entrance and security parking, close to Smith Street Cafes and shops.  Comprises of three bedrooms, main with en-suite and walk in robes, and BIR in 2nd and 3rd bedrooms.  Large open living area with polished floorboards, and carpets in bedrooms, separate laundry and toilet, plus main bathroom with bath and shower.  Great kitchen with gas cooking, dishwasher and double full-size sink. Other features are Foxtel and broadband. Please call our office and don't miss out of this great opportunity to live in this trendy suburb.\n",
+    "inspections": [
+      {
+        "day": "24",
+        "endsOn": "2022-11-24T06:15:00.000Z",
+        "endsOnDesc": "5:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-24T06:00:00.000Z",
+        "startsOnDesc": "5:00 PM",
+        "weekday": "Thursday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-1.jpg?versionId=7J.scXHulo.OrGPn_P19FegMYX9zxUyR"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-2.jpg?versionId=BmTsG4s4XSF5rV1DqwOsguPWH4DOBo6J"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-3.jpg?versionId=4KDZLXzh580MYl5alKqlPbPsSATSXmni"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-4.jpg?versionId=inB0KRL.aXJyeGCCrE30jyjvi7f9Uu8m"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-5.jpg?versionId=BcjbxW60MnjpE85.TuEJtDl9fiSMPHfH"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-6.jpg?versionId=IbJHFUI.eLM1GxgcM14cp1nABPnUzKiu"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-7.jpg?versionId=P3W3u9cLFchCtoe7sTpr_5swJX2jQ05d"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-8.jpg?versionId=QmtFy._uknyhlIjz.3E5vMvz1MlqPA2."
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9508656-9.jpg?versionId=oLhzGLQW7AfwtFJX7k3mYGHejBrBFCuR"
+      }
+    ],
+    "id": 9508656,
+    "agents": [
+      {
+        "id": 1019518,
+        "name": "Luca Russell"
+      },
+      {
+        "id": 1019507,
+        "name": "Leasing Agent"
+      }
+    ],
+    "title": "Stunning Warehouse Style Apartment | HODGES CAULFIELD",
+    "priceDetails": {
+      "longDescription": "$780",
+      "shortDescription": "$780pw"
+    },
+    "address": {
+      "streetNumber": "3/170",
+      "street": "Oxford Street",
+      "state": "Victoria",
+      "postcode": "3066",
+      "suburb": "Collingwood"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Thu 24 Nov 5:00pm"
+    },
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 2
+    }
+  },
+  {
+    "description": "Located in highly desirable location opposite the St Kilda Botanical Gardens is this top floor apartment.\n\nFeatures include:\n\n* Views over St Kilda Botanical Gardens\n* Modern kitchen \n* Modern bathroom\n* Rent includes WIFI, gas and water usage\n* Communal laundry\n* Fully furnished\n* Secure off street parking for 2 cars\n* 6 or 12 Month Lease available\n\nProperty available from the 15th December.",
+    "inspections": [
+      {
+        "day": "25",
+        "endsOn": "2022-11-25T02:00:00.000Z",
+        "endsOnDesc": "1:00 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-25T01:45:00.000Z",
+        "startsOnDesc": "12:45 PM",
+        "weekday": "Friday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9506272-1.jpg?versionId=d9ZGLU64oqrL7C7u4xqJl1g1K6i4MMxt"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9506272-2.jpg?versionId=HHVTQR635gdXxjOFbRQd7beVjwVvMVyg"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9506272-3.jpg?versionId=LJ4S1MycNWXrd1vN9Zp_3sTUC.du9mj3"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9506272-4.jpg?versionId=e0Y3yJyRIFdd2mGjjSucFD5lcjGR8AwN"
+      }
+    ],
+    "id": 9506272,
+    "agents": [
+      {
+        "id": 910634,
+        "name": "Xavier George"
+      }
+    ],
+    "title": "Fully Furnished & All Utilities included !",
+    "priceDetails": {
+      "longDescription": "$365 per week",
+      "shortDescription": "$365pw"
+    },
+    "address": {
+      "streetNumber": "9/36",
+      "street": "Blessington Street",
+      "state": "Victoria",
+      "postcode": "3182",
+      "suburb": "St Kilda"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Fri 25 Nov 12:45pm"
+    },
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "A perfectly positioned apartment with an abundance of natural light highlighting the spacious interior. Surrounded by cafes and shopping, this modern two-bedroom apartment on the top floor is ideal for all ages. \n\nFeaturing: \n- Open plan kitchen, living and dining\n- Kitchen equipped with Smeg appliances\n- Two bedrooms with built in robes (Master bed with ensuite)\n- Laundry room in central bathroom\n- One off street parking space\n- Heating and cooling throughout\n- North facing balcony\n\nClose proximity to the beach and everything Elwood has to offer this apartment is sure to fly.",
+    "inspections": [
+      {
+        "day": "22",
+        "endsOn": "2022-11-22T02:15:00.000Z",
+        "endsOnDesc": "1:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-22T02:00:00.000Z",
+        "startsOnDesc": "1:00 PM",
+        "weekday": "Tuesday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-1.jpg?versionId=rgvmit5KwyATkZXo1GI54YcWkEfEFf_I"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-2.jpg?versionId=d0JmfKmIuUu6OZgskMQZnSErtQ4ueU0q"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-3.jpg?versionId=U0Kg74LzMPypOpk.YuAd401SahzX_3MM"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-4.jpg?versionId=fEGZWrpblCW9ZR7lH3rFFY3z927oBeXy"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-5.jpg?versionId=8MdtlGBsWyK3qD_cHnq5ZRa.1Tlx5N_b"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Rex-9504775-6.jpg?versionId=dhw5gPHFAiAEZ_0.2xeLRTZxbqa91JGO"
+      }
+    ],
+    "id": 9504775,
+    "agents": [
+      {
+        "id": null,
+        "name": "Dominic Caruso"
+      }
+    ],
+    "title": "SPACIOUS AND BRIGHT IN THE HEART OF ELWOOD",
+    "priceDetails": {
+      "longDescription": "$525 p/w",
+      "shortDescription": "$525pw"
+    },
+    "address": {
+      "streetNumber": "12/50",
+      "street": "Ormond Road",
+      "state": "Victoria",
+      "postcode": "3184",
+      "suburb": "Elwood"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Tue 22 Nov 1:00pm"
+    },
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 2
+    }
+  },
+  {
+    "description": "Welcome To The Fifth!\n\n** HOW TO REGISTER FOR AN INSPECTION - Click the 'Get In Touch' button, tick 'Request An Inspection' and enter your contact details, then an email will follow with a link to book your preferred inspection time **\n\n** REGISTRATION IS ESSENTIAL - Inspections will only proceed with registrations **\n\nLive downtown and enjoy a stunning view of Melbourne's famous CBD, from your own private balcony. Positioned perfectly, with easy access to Southern Cross Station and right on top of laneway culture at its best, with Rose Lane's ground floor retail precinct featuring a combination of restaurants, cafés and other service offerings. \n\nThe residence itself provides a warm, homely environment bathed in natural light, appointed with quality finishes and of course, starring those unforgettable views.\n\nApartment features include;\n\n- Both bedrooms of generous proportions with BIRs\n- Fully fitted kitchen with breakfast bar and Technika appliances (including microwave) \n- Bright and open plan living and dining area with timber floorboards \n- Floor to ceiling windows\n- Sparkling bathroom\n- Euro laundry\n- Private balcony \n- Split system A/C\n- Secure building entry and intercom\n\nBuilding facilities include;\n\n- Landscaped rooftop garden\n- Gymnasium\n- Pool and spa\n- Communal dining space\n- Residents lounge\n\nThe Fifth places its residents in the heart of it all, with Melbourne providing an endless supply of culture, sports, dining, the arts and nightlife. All located within 3.6km of The Fifth, residents will enjoy easy access to world-acclaimed entertainment, including;\n\n- International sport complexes Marvel Stadium, MCG and Rod Laver Arena\n- Crown Casino Entertainment Complex\n- Melbourne Arts Centre plus numerous arenas and theatre venues\n- A buzzing night-life with a unique collection of night clubs and elegant cocktail bars\n\nContact Agent for more info!\n\n** Online registrations for inspection times are essential, to be updated of any changes **",
+    "inspections": [
+      {
+        "day": "21",
+        "endsOn": "2022-11-21T02:05:00.000Z",
+        "endsOnDesc": "1:05 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-21T01:45:00.000Z",
+        "startsOnDesc": "12:45 PM",
+        "weekday": "Monday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-1.jpg?versionId=StzEr5.olhrr5dYP7fajdbVZiBIMDZCg"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-2.jpg?versionId=qseSo1v2W2DZPHYOmdaXqotYe_LCYhRB"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-3.jpg?versionId=zJYd4_sPxtO8Ffp6VHiZft0iR28.zfOK"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-4.jpg?versionId=6VAiYn5s5lkToLWm86S.a8FwgTnUJmma"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-5.jpg?versionId=J1C7BCZZ8EUN1lgTgy97.zuBsCETJKQg"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-6.jpg?versionId=DkHKzwcRrpAzqGTizMSUIrzg9pXMNLwp"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-7.jpg?versionId=2jMRQE65fcAdCGjDk1lazjRMURzQW..u"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-8.jpg?versionId=0U4WmAYtxHY8td7kdZZBguP_KKFUGtag"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-9.jpg?versionId=arJaidsXs1g2DPAhMVEvJRrM2m714Yuc"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-10.jpg?versionId=BZz_CkqpKWW3lvYXs8ocSixCYduKH88C"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-11.jpg?versionId=7GaZSBbrNrKCal6XtWPkdehgm.AoMwYC"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-12.jpg?versionId=xkL6ysOYg.kM0_srhyJJPA5FDZt2slZg"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-13.jpg?versionId=NmnHhCoFf55UBBqKNuepeOkLl9bupUcC"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-14.jpg?versionId=muGjD484EhpjmDCZLyr1L3Gm8stkQt.8"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-15.jpg?versionId=9Y.G3ZT6NGrhylAdbEyHb4H9afarwNO9"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-Eagle-9504659-16.jpg?versionId=f6x9.GzkcORH8x7mh3hbeNo4H3ctSdIy"
+      }
+    ],
+    "id": 9504659,
+    "agents": [
+      {
+        "id": 644692,
+        "name": "Metta Gorway"
+      }
+    ],
+    "title": "Modern, Bright & Sensational CBD Views!",
+    "priceDetails": {
+      "longDescription": "$600",
+      "shortDescription": "$600pw"
+    },
+    "address": {
+      "streetNumber": "2704/38",
+      "street": "Rose Lane",
+      "state": "Victoria",
+      "postcode": "3000",
+      "suburb": "Melbourne"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Mon 21 Nov 12:45pm"
+    },
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "Positioned within Alexandria's sought-after 'golden triangle', this top floor apartment has just been freshly painted internally. Set in quiet street, the well configured floor plan delivers open plan living spaces and two bedrooms that will impress.\n\n\nThe property: \n* Top floor apartment\n* Two bedrooms\n* New blinds throughout\n* Balcony off lounge area\n* Freshly painted\n* Kitchen with ample storage \n* Bathroom with shower over bath\n\nThe details: \nAvailable 13th December 2022\nLease term 6 or 12 months\n\nThe neighbourhood:\nWith a blend of working-class ethos and a burgeoning creative scene, Alexandria is fast becoming a dynamic and vibrant neighbourhood with an intriguing edge. Once the home of hardworking factory and shift workers, this inner-city suburb is shedding its industrial past and becoming one of Sydney's most sought-after addresses. Source - Sitchu.com.au",
+    "inspections": [
+      {
+        "day": "23",
+        "endsOn": "2022-11-23T03:15:00.000Z",
+        "endsOnDesc": "2:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-23T03:00:00.000Z",
+        "startsOnDesc": "2:00 PM",
+        "weekday": "Wednesday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-1.jpg?versionId=OcVjp8hvnrNARrXFdCM0Xjheusi5oD7r"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-2.jpg?versionId=7umSZxYwRFNrIjaNwXAY4sEibY0rYCKy"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-3.jpg?versionId=UmLj0PhJ7naMtZ58bkEP.K9DZxrTgEmi"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-4.jpg?versionId=BooN9zSgSFQ27dWI4a62Yqca6uA6oKy6"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-5.jpg?versionId=65KF43WGn_6Mr64TRqO0qnOYKkBL_P1m"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-VaultRE-6847316-6.jpg?versionId=xzkgA.GK4ylG4It7RErXR5zok9J6dQ1x"
+      }
+    ],
+    "id": 6847316,
+    "agents": [
+      {
+        "id": 1031863,
+        "name": "Andrew Garment"
+      }
+    ],
+    "title": "The Serenity",
+    "priceDetails": {
+      "longDescription": "$500 per week",
+      "shortDescription": "$500pw"
+    },
+    "address": {
+      "streetNumber": "48/7-17",
+      "street": "Newton Street",
+      "state": "New South Wales",
+      "postcode": "2015",
+      "suburb": "Alexandria"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Wed 23 Nov 2:00pm"
+    },
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "***IMPORTANT REGISTER TO INSPECT PROPERTIES ***\n\nWelcome to superb living in this spacious, light filled, modern apartment. Within short distance to Chadstone Shopping Centre, Caulfield Train Station and public transport, Monash University and local park lands, this property will not last long, be sure to book your inspection now!\n\nThe property features:\n- Ground Floor Location\n- Two Bedrooms with built in robes \n- Open Plan Living and Dining Area Opening Up To Personal Spacious Courtyard \n- Modern Kitchen Equip With Stainless Steel Smeg Appliances, Stone Bench Tops and Plenty Of Storage Space\n- Central Sparkling Bathroom\n- European Laundry\n- Split System Heating and Cooling\n- One Undercover Secure Car Space\n- Storage Cage\n- Security Access\n\nCommunal Facilities Featuring:\n- Theatre Room\n- Spacious Kitchen/Dining Area For Entertaining\n- Library\n- Indoor Lap Pool With Spa and Sauna\n- Business Centre\n- Wine Cellar (tenant has access to one port which holds 24 bottles of wine)\n- BBQ and Outdoor Entertaining Area\n- Gym\n\nTotal Area 66.3m2\nInternal Area 54.6 m2\nCourtyard Area 11.7m2\n\nDo not miss your chance to secure yourself this property.\n\n*** BOOK ONLINE NOW TO INSPECT ***\nSimply click ‘EMAIL AGENT’ and we’ll respond instantly with available appointment times. Register to confirm your chosen inspection times so that we can advise you of any changes or alternatively you can suggest your own time and we will confirm.",
+    "inspections": [
+      {
+        "day": "24",
+        "endsOn": "2022-11-24T06:15:00.000Z",
+        "endsOnDesc": "5:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-24T06:00:00.000Z",
+        "startsOnDesc": "5:00 PM",
+        "weekday": "Thursday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-1.jpg?versionId=WeYolCB.Xaxjgo.0BgxPYGcQJIWA7OCj"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-2.jpg?versionId=Q0kUYZR4F4m1B5T1QKYNLT6aBAV2xBn9"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-3.jpg?versionId=.cAj2RJFOPy6owHDqk01WnTKzVwEfuSY"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-4.jpg?versionId=B4LROOsM.wIepPEdoWJYQ7CyyNMakrDD"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-5.jpg?versionId=lP6OjRoA3FPIacDg00RG6e7ozVDb3ZZE"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-6.jpg?versionId=uRPU4ig4WAPv9Mf0hb1e6ZPmHOQtw4ba"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-7.jpg?versionId=5aZJlgVPrB4Zyyv7y0HMCV..5PgptcmR"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-8.jpg?versionId=Aim98ELwIA5gtRhcVcphzqGBDOyXZnlA"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-9.jpg?versionId=VuBl8HqzaqE48vwNNj3uFI1_ZmmwBeFK"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9486829-10.jpg?versionId=TGzLkpzoIwSH4qEiT7AX7.45BaXUK.ow"
+      }
+    ],
+    "id": 9486829,
+    "agents": [
+      {
+        "id": 1019514,
+        "name": "Adele Curcio"
+      },
+      {
+        "id": 1019507,
+        "name": "Leasing Agent"
+      }
+    ],
+    "title": "2 BEDROOM GROUND FLOOR DELIGHT| HODGES CAULFIELD",
+    "priceDetails": {
+      "longDescription": "$500",
+      "shortDescription": "$500pw"
+    },
+    "address": {
+      "streetNumber": "17/11",
+      "street": "Bond Street",
+      "state": "Victoria",
+      "postcode": "3161",
+      "suburb": "Caulfield North"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Thu 24 Nov 5:00pm"
+    },
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "*****IMPORTANT REGISTER TO INSPECT PROPERTIES *******\n\nThe apartment offers a convenient lifestyle on the edge of Hawksburn Village and moments to Toorak Train Station, Malvern Road trams and the open expanses of Orrong Park. It comprises of two good sized bedrooms with built in robes, separate kitchen with meal area and abundant cupboard space, spacious lounge with heating and entertainers balcony enjoying city views. Features laundry facility in bathroom and undercover parking. \n\nNOTE: Enter Canterbury Road via Malvern Road.\n\n**** BOOK ONLINE NOW TO INSPECT ****\nSimply click ‘EMAIL AGENT’ and we’ll respond instantly with available appointment times.\nRegister to confirm your chosen inspection times so that we can advise you of any changes or alternatively you can suggest your own time and we will confirm.",
+    "inspections": [
+      {
+        "day": "22",
+        "endsOn": "2022-11-22T06:30:00.000Z",
+        "endsOnDesc": "5:30 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-22T06:15:00.000Z",
+        "startsOnDesc": "5:15 PM",
+        "weekday": "Tuesday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-1.jpg?versionId=xVoxWbAw_7rmSF9C_3d6fQNm_eb2U.Ff"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-2.jpg?versionId=AayoRIutNLIHcggMO3Q3hLYUur0DgeT_"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-3.jpg?versionId=DKR1HtxiLWRe6sv.LQctIqL5wXJmGREJ"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-4.jpg?versionId=.zDe.JhJsGn9iHpQ8Ua0MPpNmyAMsTQ6"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-5.jpg?versionId=qWkUCh3arvYl.uY7a04eoJy52fg3evmt"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-ListOnce-9475202-6.jpg?versionId=29yiq9H0NnwFUHvjRf9xS5XHirBBwM6v"
+      }
+    ],
+    "id": 9475202,
+    "agents": [
+      {
+        "id": null,
+        "name": "Allison Ko"
+      },
+      {
+        "id": 1019507,
+        "name": "Leasing Agent"
+      }
+    ],
+    "title": "LIGHT & BRIGHTON FIRST FLOOR TWO BEDROOM APARTMENT | HODGES CAULFIELD",
+    "priceDetails": {
+      "longDescription": "$440",
+      "shortDescription": "$440pw"
+    },
+    "address": {
+      "streetNumber": "12/9",
+      "street": "Canterbury Road",
+      "state": "Victoria",
+      "postcode": "3142",
+      "suburb": "Toorak"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Tue 22 Nov 5:15pm"
+    },
+    "features": {
+      "bedrooms": 2,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "Perfect location - second floor apartment.\n\nSituated at the end of leafy Brixton Rise, this 1 bed, 1 bath second floor apartment features a spacious kitchen with gas cooking, a large living area with newly installed heating opening to a small balcony, as well as a central bathroom with a shower over bathtub and separate toilet. \n\nOver the road from the beautiful Gardiners Creek Walking Trail, cafes and a short drive to the M1 freeway and shopping strips. One off street car space per apartment.",
+    "inspections": [
+      {
+        "day": "24",
+        "endsOn": "2022-11-24T05:15:00.000Z",
+        "endsOnDesc": "4:15 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-24T05:00:00.000Z",
+        "startsOnDesc": "4:00 PM",
+        "weekday": "Thursday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-1.jpg?versionId=_qIZZfyKAkjiIr01JXx5StQuTZRytQ84"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-2.jpg?versionId=wDr6g.Jxj9qTU8oe2qx6pyhcoSnn.XXK"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-3.jpg?versionId=O_LxQvIy4vgxEkBZXh1mSWzGNCc9aFQC"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-4.jpg?versionId=6XsDnXn2VWfGo2sk6iWVtVlRc_Sxmrqs"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-5.jpg?versionId=eF.jAUglUYoFTEK1FefjlHG654S_MrcA"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-6.jpg?versionId=iW4o5xdAy3jTUfmCUnY7coaK0jCGiP_J"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-BoxDice-9405847-7.jpg?versionId=UlEiTOQi.jWLb._WfLh4h6vpyU.hHTkI"
+      }
+    ],
+    "id": 9405847,
+    "agents": [
+      {
+        "id": 994354,
+        "name": "Emma Watkinson"
+      }
+    ],
+    "title": "OPEN Saturday 19th November 11:25am - 11:40am",
+    "priceDetails": {
+      "longDescription": "$320 per week",
+      "shortDescription": "$320pw"
+    },
+    "address": {
+      "streetNumber": "13/22",
+      "street": "Brixton Rise",
+      "state": "Victoria",
+      "postcode": "3146",
+      "suburb": "Glen Iris"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Thu 24 Nov 4:00pm"
+    },
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "Fully furnished 1 bedroom apartment on 528 Swanston Street. Apartment is conveniently located within a short walking distance to CBD, restaurants, cafes and shops. A totally convenient position with passing tram and walking distance to Melbourne University, RMIT.\n\nThe easy living design includes open plan living/kitchen area with dishwasher, air conditioner, separate bedroom with built in robes and ensuite bathroom.\n\nAdditional features include heating/cooling, security entrance, life access, care taker and seven - day reception. There are also communal spaces including an entertainment room, paved barbeque facilities and a large laundry.\n\nApartment will be freshly painted.\n\nPlease send an enquiry below.",
+    "inspections": [
+      {
+        "day": "22",
+        "endsOn": "2022-11-22T04:10:00.000Z",
+        "endsOnDesc": "3:10 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-22T04:00:00.000Z",
+        "startsOnDesc": "3:00 PM",
+        "weekday": "Tuesday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-1.jpg?versionId=DpUBDWLKr5n0XmGrml1FuQ7RzP6Q2jbk"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-2.jpg?versionId=XKRaBPRru_0J9bw.izhUpH1W9VrhrVye"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-3.jpg?versionId=P5HhKx7Lf4RKzX138aPQzGQjylNq1gA_"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-4.jpg?versionId=7xhp4FCoFYbc6x4ShVOtQS1CpkrS5xQA"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-5.jpg?versionId=LLxHwi7_H2GuyHubFP.pkVwCbHTBDLu9"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-6.jpg?versionId=xSiyibze9Lad_wT55ijg_RMefw5Zox8S"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-PortPlus-1151170-7.jpg?versionId=liGD32yuyq4Cr5IHXFF4cVi4WjMV.nwK"
+      }
+    ],
+    "id": 1151170,
+    "agents": [
+      {
+        "id": 1026858,
+        "name": "Violet Chiang"
+      }
+    ],
+    "title": "1 Bedroom Apartment in Carlton",
+    "priceDetails": {
+      "longDescription": "$380 per week",
+      "shortDescription": "$380pw"
+    },
+    "address": {
+      "streetNumber": "321/528",
+      "street": "Swanston Street",
+      "state": "Victoria",
+      "postcode": "3053",
+      "suburb": "Carlton"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Tue 22 Nov 3:00pm"
+    },
+    "features": {
+      "bedrooms": 1,
+      "bathrooms": 1
+    }
+  },
+  {
+    "description": "Set over three levels, this ultra-spacious unique residence combines the very best of Inner North living with modern contemporary finishes. Located within minutes to all of your favourite cafes, bars and public transport, you will be spoilt with choice and convenience.\n\nThe property offers a versatile floor-plan, comprising of a quality master chef kitchen with ample of bench space, additional features including, dishwasher, electric cook top and large pantry. Comprising of 3 large bedrooms, in which 2 of the bedrooms located upstairs are equipped with their own private ensuites, walk in wardrobes and balconies. This property is sure to impress with secure basement parking for 1x car, spilt-system heating & cooling throughout, spacious laundry, stunning floating floors and intercom.\n\nThere are very limited opportunities to rent prime real estate in Fitzroy such as this one! Don't miss out!",
+    "inspections": [
+      {
+        "day": "24",
+        "endsOn": "2022-11-24T05:45:00.000Z",
+        "endsOnDesc": "4:45 PM",
+        "month": "Nov",
+        "startsOn": "2022-11-24T05:30:00.000Z",
+        "startsOnDesc": "4:30 PM",
+        "weekday": "Thursday"
+      }
+    ],
+    "images": [
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-1.jpg?versionId=J6IeCyntEVml1ubPJsFZiO45PQyS7QJD"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-2.jpg?versionId=SrgeG0zV1hKyGHSChEjDZLc1DLpdL6Yd"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-3.jpg?versionId=NDsfd.1Dwsi4Xk7rhjvM.pQBt5VWNNj3"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-4.jpg?versionId=1cGAETvMcr1CwJek.ICewt6dC8hBdZdL"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-5.jpg?versionId=coUnlg45oap_h0cCpnKsN0lx8TlCnraG"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-6.jpg?versionId=JstyST1Bw6drTdNVM9O64ZWF_mULY4cE"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-7.jpg?versionId=GH6cfmMUag4Hr1I8Aa62o0K_3OkBhs.c"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-8.jpg?versionId=c1Dc3lWt5TqoMpGozYM3WargEUyg1ORp"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-9.jpg?versionId=hqRpX_mo3vf0GiV6721LTyRZQTDLm3IA"
+      },
+      {
+        "uri": "https://img-2.homely.com.au/S3/l-AgentBox-9513476-10.jpg?versionId=rkFpFKxsH1uuxAzEZGpv1zyaqLW2PAOI"
+      }
+    ],
+    "id": 9513476,
+    "agents": [
+      {
+        "id": 387021,
+        "name": "Stefan Joannides"
+      }
+    ],
+    "title": "Enormous Apartment Living in Desirable Fitzroy",
+    "priceDetails": {
+      "longDescription": "$900 per week",
+      "shortDescription": "$900pw"
+    },
+    "address": {
+      "streetNumber": "2/224",
+      "street": "Johnston Street",
+      "state": "Victoria",
+      "postcode": "3065",
+      "suburb": "Fitzroy"
+    },
+    "listingType": "rental",
+    "statusType": "available",
+    "statusLabels": {
+      "nextInspection": "Inspection Thu 24 Nov 4:30pm"
+    },
+    "features": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    }
+  }
+]

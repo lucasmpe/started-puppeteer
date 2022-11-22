@@ -20,7 +20,7 @@ export class ListingService {
   private async createNewListing(page: Page, listing: Listing): Promise<void> {
     await page.goto(CREATE_URL);
 
-    await page.waitForSelector(FORM.BASE_SELCTOR);
+    await page.waitForSelector(FORM.BASE_SELECTOR);
 
     const [fileChooser] = await Promise.all([
       page.waitForFileChooser(),
