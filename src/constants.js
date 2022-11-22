@@ -7,3 +7,5 @@ export default {
   ADDRESS_OF_PROPERTY_FOR_RENT: "Address of property for rent",
   PROPERTY_FOR_RENT_DESCRIPTION: "Property for rent description",
 };
+
+export const DEFAULT_DELAY = 10;

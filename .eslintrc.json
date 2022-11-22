@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": "airbnb-typescript/base",
+  "plugins": ["import", "prettier"],
+  "rules": {
+    "comma-dangle": "off",
+    "@typescript-eslint/comma-dangle": "off"
+  },
+  "parserOptions": {
+    "project": "./tsconfig.eslint.json"
+  }
+}
